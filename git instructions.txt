@@ -1,0 +1,55 @@
+ ----------  SET UP -------------------
+
+1. Installer git 
+	https://git-scm.com/downloads
+	
+	- git local setup (on peut le faire n'importe quand mais c'est mieux le faire tout de suite)
+	https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+2. (Optional) Choisissez un client GUI pout git
+
+3. Creer un compte sur https://github.com/
+	
+4. Essayer les trucs simple
+	https://guides.github.com/activities/hello-world/
+
+5. Si vous avez un compte sur git hub mais ne pouvez/voulez pas le utiliser :
+	https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/
+
+
+---------------- FAST START de REPO sur le machine locale ---------------
+
+1. Allez a le dosier ou vous vouler avoir votre repo
+2. Right click -> Git Bash here (en PC, sais pas en Mac)
+3. dans le bash:	- git init
+4. maintenant on peut trouver le dossier [!git] et tout le contenu est suivi par git.
+ on peut y mettre tous ce que vous voulez
+5. dans le bash:  - "git add ." - ajouter tous les fichiers pour commit
+6.                - "git commit -m "commit message"" - git prepare tous les fichiers ajoutes pour garder comme version intermediare
+7. maintenant ce repo locale est pret pour etre envoyé sur github 
+	
+	
+
+----------- NOTRE ORGANISATION SUR github.com ----------------
+
+Ici on a notre page centrale ou on peut creer des repositories et gosser avec leurs options,
+effectuer pushes, merges etc. Chaque membre d'equipe peut creer, administrer et effacer leurs propres repositories.
+
+Je ne suis pas sur pur l'instant (on le checker dans le processus)  mais on doit pouvoir aussi à former des petits equipes pour travailler sur les petits projets
+
+                https://github.com/CA7460
+				
+				
+1. Y a pas de password. On peut clone/pull/lire et fork les repositories toute de suite.
+	
+2. Pour vous donner une possibilité a creer et ajuster vos repos j'ai besoin savoire votre nom sur github pour ajouter a l'equipe
+
+3. On peut le faire tout ce que vous voulez avec votre repo's mais il faut garder la propreté pour ne pas noyer au mer de dossiers :)
+
+4. Feel free a experimenter et raconter vos decouverts à tous le monde
+
+5. J'ai creé quelques repos pour gosser. Leur branches sont dedéfendus de push 
+(juste admin general et createur de repo peut faire push et donner des droits d'utilisation). 
+Donc pour ajouter qqch aux repos des autres il faut "fork" puis brancher locallement et faire pull request afin de manipulation. 
+
+6. Cet instruction n'est pas final. Je l'ajouté dans l'une de repo's pour additions et corrections
